@@ -12,6 +12,7 @@ function Home() {
     >
       <h1>Hello!</h1>
       <h3>This generator is very specific. Please place your text below, and the program will return a count of how many words begin with 't', how many end with 'e', and how many begin with 't' and end with 'e'. Enjoy!</h3>
+      {/* Text box placed for user input */}
       <textarea
         id="userText"
         rows="6"
